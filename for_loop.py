@@ -1,4 +1,6 @@
-l= {'one':1}
+l= (1,2,3)
+for i in l:
+   print(i)
 for i in l:
    print(i)
 
